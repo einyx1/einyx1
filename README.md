@@ -76,7 +76,7 @@ Motto   → "The Blade is Me."
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=einyx1&theme=tokyonight" alt="Estatísticas do GitHub de Einyx" />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=einyx1&theme=tokyonight" alt="Linguagens mais usadas por Einyx" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=einyx1&theme=tokyonight&v=20260920-java" alt="Linguagens mais usadas por Einyx" />
 
 </div>
 
