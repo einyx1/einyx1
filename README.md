@@ -40,6 +40,7 @@ Motto   → "The Blade is Me."
 <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" />
 <img src="https://img.shields.io/badge/Groovy-0D1117?style=for-the-badge&logo=apachegroovy&logoColor=4298B8" alt="Groovy" />
 <img src="https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=FFFFFF" alt="Bash" />
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css&logoColor=1572B6" alt="CSS3" />
 
 <br /><br />
 
@@ -50,7 +51,6 @@ Motto   → "The Blade is Me."
 <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
 <img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express" />
 <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css&logoColor=1572B6" alt="CSS3" />
 <img src="https://img.shields.io/badge/Discord.js-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord.js" />
 
 <br /><br />
